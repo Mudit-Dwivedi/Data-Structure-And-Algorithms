@@ -24,7 +24,7 @@ int n;
    cin>>arr[i];
   }
   int find = uniqueElement(arr);
-  cout<<"unique elemnet is =" << find <<endl;
+  cout<<"uniique elemnet is =" << find <<endl;
 
  return 0;
 }
